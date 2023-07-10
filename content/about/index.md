@@ -2,22 +2,19 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
-  - Java Enterprise
-  - Spring MVC & Maven
-  - Jenkins (CI/CD)
-  - Kafka & Couchbase
-  - JUnit & TestNG
-  - IntelliJ Idea
-  - Golang
+  - C/C++
   - Python
+  - MySQL
+  - MS Excel
+  - HTML 
+  - CSS 
+  - Bootstrap
 ---
 
-Hello! Interestingly, I got introduced to programming in my freshman year at [Birla Institute Of Technology,  Mesra](https://www.bitmesra.ac.in/) where I completed my Bachelors in Computer Science and Engineering (2016-2020) with [86.3% aggregate](https://drive.google.com/file/d/1G4UBPBP0mvWZLRdkF_EcpmKKGp7_OA8U/view?usp=sharing).
+Hello! I discovered my passion for programming during my time at [O.P. Jindal School, Raigarh](http://www.opjstamnar.com/). I completed my schooling there, specializing in the Science stream. Later, I pursued a Bachelor's degree in Data Science from [Ajeenkya DY Patil University, Pune](https://adypu.edu.in/) (2020-2023) achieving a CGPA of [8.77]().
 
-I'm currently working as a developer for **Bell Canada** in the Amdocs Digital Delivery unit. My responsibilty includes Java/Spring based microservices development & testing. 
+Alongside my studies, I had the privilege of being part of a remarkable team that secured the [2nd position](https://drive.google.com/file/d/1urBcCgenKup3xjGC1nGtcpql0-Nko8Xr/view?usp=sharing) in the [Basketball Cluster Competition](https://drive.google.com/file/d/1dHDpUokP3Xcf37dJYuH8Gtbi26yC0nKX/view?usp=sharing). I also proudly represented Chhattisgarh in the [Inter-State Football Competition](https://drive.google.com/file/d/1BuzLD5NykhDStPnf65VAFSffwushe-sY/view?usp=sharing) and participated in the [Inter-School Robotics Competition](https://drive.google.com/file/d/10KjAIyhjzZF8IsAGsXL_paC2jiV4rKXT/view?usp=sharing).
 
-I'm also an [Innovation Agent](https://drive.google.com/file/d/117KS9QnDrcg7dllcAzGz_b7qQPgR3pGs/view?usp=sharing) fostering the culture of creativity and innovation at Amdocs, India.
-
-I have been awarded as Winner in [Innovation Nugget](https://drive.google.com/file/d/1PzTZkXlQV9ldZxqmBbbO94uIqrhSwvcq/view?usp=sharing), Creativity Jam, [Design Thinking Hackathon](https://drive.google.com/file/d/1hXCATvKwzHCvctHtElsqFg5YIqabz22O/view?usp=sharing) and Runners-Up in [Project ICE Fair](https://drive.google.com/file/d/1exB19OoQ5dzU2mg4qbdkNutA25TGBWV3/view?usp=sharing) by Amdocs.
+Currently, I am dedicatedly preparing myself to make a significant impact as a **Data Scientist**. 
 
 Here is a list of the technologies that I'm familiar with!

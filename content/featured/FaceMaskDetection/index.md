@@ -1,17 +1,18 @@
 ---
-date: '3'
+date: '2'
 title: 'Face Mask Detection'
 cover: 'face-mask.png'
-github: 'https://github.com/chandrikadeb7/Face-Mask-Detection'
-external: 'https://www.youtube.com/watch?v=AAkNyZlUae0'
+github: 'https://github.com/itsyoursumit/Realtime-Face-Mask-Detection'
+external: 'https://www.youtube.com/watch?v=Ax6P93r32KU'
 tech:
   - OpenCV
   - TensorFlow
   - Keras
+  - MobileNet
   - Python
 showInProjects: true
 ---
 
-Face Mask Detection system to detect face masks in static images as well as in real-time video streams. Own custom dataset was built using Bing Search API and Kaggle.
-
-Inspired by Adrian Rosebrock's [PyImageSearch Blog](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/).
+ Developed a real-time Face Mask Detection system capable of accurately identifying face masks in video streams, providing a mask-wearing accuracy score ranging from 0 to 100.
+<br><br>
+ Utilized a pre-dataset compiled from diverse sources, including Kaggle, AWS, and Google Images, to train the system and ensure comprehensive coverage and accuracy in mask detection.

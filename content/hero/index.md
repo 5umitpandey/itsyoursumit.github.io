@@ -1,12 +1,10 @@
 ---
 title: 'Hello World! My name is'
-name: 'Chandrika Deb'
-subtitle: 'I love exploring new things!'
+name: 'Sumit Pandey,'
+subtitle: '& I love DS and Sports!'
 buttonText: 'Contact Me'
 ---
 
-I'm an India based software developer with a goal-driven creative mindset and passion for learning and innovating.
+I am an ambitious **Data Science** student based in India, driven by goals and fueled by a creative mindset. With an insatiable thirst for learning and a relentless passion for innovation, I am constantly exploring the vast world of data science.
 
-Currently working as a Software Developer at [Amdocs](https://www.amdocs.com/) and as a Freelance Content Writer for [Pepper Content](https://www.peppercontent.io).
-
-Outside work, I occasionally blog on [Medium](https://chandrikadeb7.medium.com/). Off-screen, I sketch my thoughts [here](https://pin.it/4W1Rxtj)!
+[Scroll down](#about) to dive deeper into my journey, uncover my works, and witness the fusion of my knowledge and creativity.
